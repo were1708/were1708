@@ -1,5 +1,5 @@
 Hi there! I'm currently a computer science student at the University of California, Santa Cruz 🎓. I'm passionate about using technology to solve real-world problems
-and I enjoy learning new programming languages and frameworks 💻🔍. I have experience in a variety of programming languages such as C++, Java, and Python 💻. 
+and I enjoy learning new programming languages and frameworks 💻🔍. I have experience in a variety of programming languages such as C++, JavaScript, and Python 💻. 
 I've worked on projects such as:
 
 - A React app to assist content creators create captions for their videos!
