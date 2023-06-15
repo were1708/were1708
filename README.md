@@ -5,6 +5,7 @@ I've worked on projects such as:
 - A React app to assist content creators create captions for their videos!
 - A Webpage to display the water footprints of certain popular foods
 - An implementation of the Huffman Encoding Algorithm in C
+- Messaging app built in Swift, Kotlin, and React Native
 
 
 I am always looking for new opportunities to learn and grow as a developer 🚀, so feel free to reach out if you have any projects or ideas that you think I might be interested in 🤝. Thanks for visiting my GitHub profile!
